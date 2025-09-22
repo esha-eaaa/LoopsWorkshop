@@ -41,6 +41,7 @@ public class Gui extends Application {
         Line line = new Line(70, 70, 100, 70);
         pane.getChildren().add(line);
 
+
         // Circle with center at (70,70) and radius 30
         Circle circle = new Circle(70, 70, 30);
         circle.setFill(Color.CORNFLOWERBLUE);
